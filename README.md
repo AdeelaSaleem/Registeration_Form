@@ -8,11 +8,13 @@ It includes both a login and a registration form with toggle functionality.
 <strong>Features</strong>
 <br>
 - Toggle Functionality:Users can seamlessly switch between the login and registration forms without refreshing the page.
-  <br>
+ - <br>
  <strong>Files and Structure:</strong>
 <br>
 - index.html: Contains the HTML structure of the login and registration forms.
+ <br>
 - style.css: Defines the styling, including background image, form styles, and transitions.
+ <br>
 -main.js: Implements the toggle functionality for switching between login and registration forms.
   <br>
 <strong> Getting Started:</strong>
