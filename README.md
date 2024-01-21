@@ -4,6 +4,7 @@ This project implements a simple registration form with  responsive design.
 <br>
 It includes both a login and a registration form with toggle functionality.
 <br>
+
 <strong>Features</strong>
 <br>
 - Toggle Functionality:Users can seamlessly switch between the login and registration forms without refreshing the page.
@@ -14,6 +15,7 @@ It includes both a login and a registration form with toggle functionality.
 - style.css: Defines the styling, including background image, form styles, and transitions.
 -main.js: Implements the toggle functionality for switching between login and registration forms.
   <br>
+  
 <strong> Getting Started:</strong>
 <br>
 1. Clone the repository.
